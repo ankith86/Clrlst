@@ -18,7 +18,7 @@ function apk_Builder(){
 
          ./gradlew assembleDebug
 
-         echo " ends here"
+        # echo " ends here"
 
          #exit 0
 
